@@ -22,8 +22,7 @@ Whitepaper, Pitchdeck and One-Pager: https://drive.google.com/drive/folders/1fA-
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/f3b70192-16f5-4b38-a38d-5365a8e74268)
 ![image](https://github.com/user-attachments/assets/2a51fa29-7924-4a01-b6ae-d68b730827e8)
-![image](https://github.com/user-attachments/assets/0c46189b-2b3b-4872-80a6-481c434de67f)
-![image](https://github.com/user-attachments/assets/d7edcf2a-ed3b-4948-9cba-3b8ddffc4783)
+<img width="1332" height="585" alt="image" src="https://github.com/user-attachments/assets/5b0f4ab6-2424-41a8-bb75-4b3fd204af0c" />
 ![image](https://github.com/user-attachments/assets/2863c48d-6fad-47f6-bc39-bb6bac60c02e)
 ![image](https://github.com/user-attachments/assets/87ab773c-c308-401f-a469-bef53191b22c)
 ![image](https://github.com/user-attachments/assets/2ce30787-7023-465c-b8eb-966ca1671904)
